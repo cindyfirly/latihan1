@@ -1,0 +1,19 @@
+.sidebar img {
+    width: 100px;
+    height: 100px;
+}
+#header img {
+    width: 200px;
+    height: 200px;
+}
+#header h1 {
+    background: rgb(255, 145, 145);
+    color: white;
+}
+#header ul {
+    background-color: rgb(245, 173, 115);
+    color: white;
+}
+#daftar-artikel h2 {
+    
+}
